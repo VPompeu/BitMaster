@@ -3,7 +3,7 @@ body {
     background-color: #f4f4f4;
     text-align: center;
     background-color: black;
-    background-image: url(../img/binario-fundo.jpeg);
+    background-image: url(./binario-fundo.jpeg);
 }
 
 .container {
