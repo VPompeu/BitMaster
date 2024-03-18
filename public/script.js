@@ -63,7 +63,7 @@ const questions = [
 
 let currentQuestion = 0;
 let score = 0;
-const totalQuestions = questions.length; // Adicionando o número total de perguntas
+const totalQuestions = questions.length;
 const questionContainer = document.getElementById("question-container");
 const optionsContainer = document.getElementById("options-container");
 const submitButton = document.getElementById("submit-btn");
